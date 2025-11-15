@@ -108,6 +108,6 @@ Let's search for it on [gtfobins](https://gtfobins.github.io/).
 
 We can use this command to get a root shell.
 
-We got are now root!
+We are now root!
 
 ![](pics/pic8.png)
